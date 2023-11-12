@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "Animaux": ["Chien", "Chat", "Lion", "Baleine", "Aigle"],
+    "Fruits": ["Pomme", "Banane", "Fraise", "Cerise", "Kiwi"],
+    "Véhicules": ["Voiture", "Moto", "Avion", "Bateau", "Vélo"],
+    "Instruments de musique": ["Guitare", "Piano", "Violon", "Batterie", "Flûte"],
+    "Objets technologiques": ["Ordinateur", "Smartphone", "Tablette", "Casque VR", "Montre connectée"],
+    "Vêtements": ["T-shirt", "Pantalon", "Robe", "Chapeau", "Écharpe"],
+    "Outils": ["Marteau", "Tournevis", "Scie", "Pince", "Niveau"],
+    "Sports": ["Football", "Basketball", "Tennis", "Natation", "Athlétisme"],
+    "Couleurs": ["Rouge", "Bleu", "Vert", "Jaune", "Violet"]
+  }
+}
